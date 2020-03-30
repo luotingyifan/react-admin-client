@@ -66,3 +66,24 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+### 使用React脚手架（create-react-app）创建项目
+create-react-app react-admin-client
+
+### 引入 antd
+yarn add antd
+
+### 高级配置 引入react-app-rewired和customize-cra
+yarn add react-app-rewired customize-cra
+
+### 使用 babel-plugin-import
+yarn add babel-plugin-import <br/>
+babel-plugin-import 是一个用于按需加载组件代码和样式的 babel 插件
+
+### 自定义主题
+yarn add less less-loader <br/>
+按照 配置主题 的要求，自定义主题需要用到 less 变量覆盖功能
+
+### 引入路由
+yarn add react-router-dom
