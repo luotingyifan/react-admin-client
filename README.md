@@ -87,3 +87,6 @@ yarn add less less-loader <br/>
 
 ### 引入路由
 yarn add react-router-dom
+
+### 引入 axios 异步请求接口
+yarn add axios
